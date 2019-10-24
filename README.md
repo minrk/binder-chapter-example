@@ -1,6 +1,6 @@
 # Minimal Dockerfiles for Binder
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-examples/minimal-dockerfile/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/minrk/binder-chapter-example/master)
 
 [Binder](https://mybinder.org) needs only one thing for images to work:
 
