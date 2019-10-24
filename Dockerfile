@@ -1,4 +1,4 @@
-FROM ceciledc/fenics_mixed_dimensional:30-11-18
+FROM ceciledc/fenics_mixed_dimensional:26-04-19-matplotlib
 
 RUN pip3 install --no-cache notebook
 
